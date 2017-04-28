@@ -1,2 +1,2 @@
-# vogella_java
+# vogella java
 Vogella Tutorial Java
